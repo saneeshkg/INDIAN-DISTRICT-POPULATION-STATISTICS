@@ -3,7 +3,7 @@ indian district population is a study of how people are spread across different 
 
 **Objectives of the project**
 
-• to study population distribution across different districts and states in India
+• to study population distribution across different districts and states in India  
 • to analyse male and female population share in each region
 • to understand the literacy variation between states and districts
 • to examine population growth and demographic trends
